@@ -40,9 +40,13 @@ span{
 .label3{  
   background-color: #fdcfdf;
 }
-ul{
+p{
     padding: 20px 0 0px 25px;
     font-size: 1.2em;
+}
+ul{
+    padding: 0px 0 0px 60px;
+    font-size: 1em;
 }
 .row {
   width: 100%;
